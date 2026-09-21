@@ -1,6 +1,6 @@
 # Sachin Gupta
 
-Product Manager at Intuit. Building open-source AI tools for product teams with [Hardik Tiwari](https://github.com/hardiktiwari).
+Product Manager at Intuit. Building open-source AI tools for product teams.
 
 [LinkedIn](https://www.linkedin.com/in/sachinkgupta1/)
 
@@ -10,7 +10,7 @@ Product Manager at Intuit. Building open-source AI tools for product teams with 
 
 ### PM OS: shared context for product work
 
-**Co-creator** · [`PM-operating-OS`](https://github.com/Sach1ng/PM-operating-OS)
+[`PM-operating-OS`](https://github.com/Sach1ng/PM-operating-OS)
 
 A self-serve setup so the model starts with your strategy, goals, and tools instead of a blank chat. Runs on Cursor and Codex.
 
@@ -24,7 +24,7 @@ Earlier version, the one the memory post is about: [`PM-operating-OS-memory`](ht
 
 ### Pip: one AI coworker on Slack, desktop, and Chrome
 
-**Co-creator** · [`tandem`](https://github.com/Sach1ng/tandem) · [site](https://hardiktiwari.github.io/tandem-site/)
+[`tandem`](https://github.com/Sach1ng/tandem) · [site](https://sach1ng.github.io/tandem/)
 
 Brings the agent to the work, instead of making you bring the work to the agent. Three surfaces, one engine, one local memory.
 
@@ -35,7 +35,7 @@ Brings the agent to the work, instead of making you bring the work to the agent.
 
 ### Eval Kit: score the answer and the path
 
-**Co-creator** · [`Eval-Kit`](https://github.com/Sach1ng/Eval-Kit)
+[`Eval-Kit`](https://github.com/Sach1ng/Eval-Kit)
 
 You already have a golden dataset. Eval Kit turns it into a score you can explain. Gold is the expert's worked answer. The grader is a yes/no checklist. If a right ending can still be the wrong way to get there, it adds process checks and reports clean vs dirty.
 
@@ -45,9 +45,9 @@ You already have a golden dataset. Eval Kit turns it into a score you can explai
 
 ### Otira: AI coworkers for small businesses
 
-[`otira`](https://github.com/Sach1ng/otira)
+[`otira`](https://github.com/Sach1ng/otira) · [site](https://sach1ng.github.io/otira/)
 
-Forward-deployed coworkers for SMBs. A context layer and connectors on the tools a company already uses, then automations on top. Pre-revenue. Wine first, then other verticals. With Hardik Tiwari.
+Forward-deployed coworkers for SMBs. A context layer and connectors on the tools a company already uses, then automations on top. Pre-revenue. Wine first, then other verticals.
 
 ### better_slido: a presentation coworker
 
@@ -59,11 +59,15 @@ Browser slide editor with an always-on agent you can @-tag. You comment on block
 
 ## Writing
 
-With Hardik Tiwari.
+### GitHub Pages
 
-- [PM OS: Giving AI the Context Product Teams Already Have](https://medium.com/@tiwari.hardik36/pm-os-giving-ai-the-context-product-teams-already-have-2b3adf9790ca) · Mar 2026 · [LinkedIn](https://www.linkedin.com/posts/sachinkgupta1_pm-os-giving-ai-the-context-product-teams-activity-7439474051489701888-k1rX)
-- [Self-Updating Knowledge Base and Memory System for PM OS](https://medium.com/design-bootcamp/building-a-self-updating-knowledge-base-for-your-pm-os-95fd082e2515) · Apr 2026 · *Design Bootcamp* · [LinkedIn](https://www.linkedin.com/posts/sachinkgupta1_self-updating-knowledge-base-and-memory-system-activity-7448439890305904641-exJm)
-- [This is Pip](https://www.linkedin.com/posts/sachinkgupta1_this-is-pip-an-ai-coworker-that-lives-where-activity-7483027834601435136-R4WT) · Jul 2026
+- [Intelligence stopped being the bottleneck](https://sach1ng.github.io/tandem/essay.html) · Jul 2026. The models got good. The bottleneck now is presence: in your tools, with your history, doing the work. A chat tab that starts blank is the old factory layout.
+
+### LinkedIn
+
+- [PM OS: Giving AI the Context Product Teams Already Have](https://www.linkedin.com/posts/sachinkgupta1_pm-os-giving-ai-the-context-product-teams-activity-7439474051489701888-k1rX) · Mar 2026. Stop re-explaining strategy every session. One context graph for segments, metrics, decisions, and the tools you already use.
+- [Self-Updating Knowledge Base and Memory System for PM OS](https://www.linkedin.com/posts/sachinkgupta1_self-updating-knowledge-base-and-memory-system-activity-7448439890305904641-exJm) · Apr 2026. Markdown in git. Agents write the updates. People still decide what counts as true.
+- [This is Pip](https://www.linkedin.com/posts/sachinkgupta1_this-is-pip-an-ai-coworker-that-lives-where-activity-7483027834601435136-R4WT) · Jul 2026. Bring the agent to Slack, the desktop, and the browser. One memory across all three.
 
 ---
 
