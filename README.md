@@ -33,15 +33,16 @@ Brings the agent to the work, instead of making you bring the work to the agent.
 - Memory is plain markdown on your machine. You can open and read every line
 - Optional mount of PM OS as the starting brain. Blank memory works on day one
 
-### Eval Kit: score the answer and the path
+### Eval Kit: write the golden set, then score the path
 
 [`Eval-Kit`](https://github.com/Sach1ng/Eval-Kit)
 
-You already have a golden dataset. Eval Kit turns it into a score you can explain. Gold is the expert's worked answer. The grader is a yes/no checklist. If a right ending can still be the wrong way to get there, it adds process checks and reports clean vs dirty.
+Most eval tools assume you already have gold. This one helps you build it: worlds (task + planted problem + checks), then lint, then score traces.
 
-- Demo runs on the public APEX-Accounting sample. No API key
-- Outcome only can mark a dirty finish as a pass. Outcome plus process does not
-- Reports pass@k (happened once) and pass^k (happened every time)
+- `evalkit init` writes a starter set for chatbot, marketplace, back-office, or coding
+- Lint refuses a world with no outcome check, no known-good run, or real personal data in fixtures
+- A right-looking answer on the wrong path is dirty, not a pass
+- Reports pass@k (can it) and pass^k (does it every time). No API key
 
 ### Otira: AI coworkers for small businesses
 
