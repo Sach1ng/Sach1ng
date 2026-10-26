@@ -33,7 +33,7 @@ Brings the agent to the work, instead of making you bring the work to the agent.
 - Memory is plain markdown on your machine. You can open and read every line
 - Optional mount of PM OS as the starting brain. Blank memory works on day one
 
-### Eval Kit: gold, confirmed metrics, then pre-prod and prod
+### Eval Kit: write the eval for your AI agent
 
 [`Eval-Kit`](https://github.com/Sach1ng/Eval-Kit)
 
